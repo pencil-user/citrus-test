@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 2px;
+  }
+
+img {
+    max-width:100%;
+    height:auto;
+}
+
+.imgcontainer {
+    width: 250px; 
+    
+    /*height: 200px;*/
+}

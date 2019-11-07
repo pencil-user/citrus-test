@@ -1,0 +1,9 @@
+How to launch applicaton
+
+1. modify settings.php with your own MySQL Connect settings. Make sure that DBNAME matches database name where you want the application installed
+2. run install.php
+3. delete install.php
+
+Use admin/index.php to access admin portion of the app.
+
+Dušan Benašić
